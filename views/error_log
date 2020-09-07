@@ -1,0 +1,2 @@
+[22-Jul-2019 17:15:23 America/Mexico_City] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home2/obrasmormex/public_html/views/home.php on line 81
+[23-Jul-2019 15:24:50 America/Mexico_City] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home2/obrasmormex/public_html/views/index.php on line 89

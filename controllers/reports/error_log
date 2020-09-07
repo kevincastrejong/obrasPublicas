@@ -1,0 +1,248 @@
+[06-Apr-2019 12:22:56 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home/obrasmormex/public_html/controllers/reports/insertReport.php on line 43
+[08-Apr-2019 23:08:31 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home/obrasmormex/public_html/controllers/reports/insertReport.php on line 43
+[08-Apr-2019 23:14:31 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home/obrasmormex/public_html/controllers/reports/insertReport.php on line 43
+[08-Apr-2019 23:35:23 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home/obrasmormex/public_html/controllers/reports/insertReport.php on line 43
+[08-Apr-2019 23:36:23 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home/obrasmormex/public_html/controllers/reports/insertReport.php on line 43
+[09-Apr-2019 10:07:54 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home/obrasmormex/public_html/controllers/reports/insertReport.php on line 43
+[09-Apr-2019 10:07:55 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home/obrasmormex/public_html/controllers/reports/insertReport.php on line 43
+[09-Apr-2019 10:10:03 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home/obrasmormex/public_html/controllers/reports/insertReport.php on line 43
+[09-Apr-2019 10:10:34 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home/obrasmormex/public_html/controllers/reports/insertReport.php on line 43
+[09-Apr-2019 10:10:41 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home/obrasmormex/public_html/controllers/reports/insertReport.php on line 43
+[09-Apr-2019 10:12:00 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home/obrasmormex/public_html/controllers/reports/insertReport.php on line 43
+[22-Jul-2019 12:24:34 America/Mexico_City] PHP Warning:  move_uploaded_file(/home2/obrasmormex/public_html/new_obras_publicas/Uploads/UploadsFilesReports/289ff753554251eb1ca48d3095145b6e.jpg): failed to open stream: No such file or directory in /home2/obrasmormex/public_html/controllers/reports/insertReport.php on line 82
+[22-Jul-2019 12:24:34 America/Mexico_City] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/php5CdQCO' to '/home2/obrasmormex/public_html/new_obras_publicas/Uploads/UploadsFilesReports/289ff753554251eb1ca48d3095145b6e.jpg' in /home2/obrasmormex/public_html/controllers/reports/insertReport.php on line 82
+[22-Jul-2019 12:24:34 America/Mexico_City] PHP Fatal error:  Uncaught exception 'ImagickException' with message 'unable to open image `/home2/obrasmormex/public_html/new_obras_publicas/Uploads/UploadsFilesReports/289ff753554251eb1ca48d3095145b6e.jpg': No such file or directory @ error/blob.c/OpenBlob/2589' in /home2/obrasmormex/public_html/controllers/reports/insertReport.php:85
+Stack trace:
+#0 /home2/obrasmormex/public_html/controllers/reports/insertReport.php(85): Imagick->__construct('/home2/obrasmor...')
+#1 /home2/obrasmormex/public_html/controllers/reports/insertReport.php(36): saveFiles(Array, '/home2/obrasmor...')
+#2 {main}
+  thrown in /home2/obrasmormex/public_html/controllers/reports/insertReport.php on line 85
+[22-Jul-2019 12:28:18 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home2/obrasmormex/public_html/controllers/reports/insertReport.php on line 55
+[22-Jul-2019 12:28:54 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home2/obrasmormex/public_html/controllers/reports/insertReport.php on line 55
+[22-Jul-2019 12:35:10 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home2/obrasmormex/public_html/controllers/reports/insertReport.php on line 55
+[22-Jul-2019 12:46:03 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home2/obrasmormex/public_html/controllers/reports/insertReport.php on line 55
+[22-Jul-2019 13:13:32 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home2/obrasmormex/public_html/controllers/reports/insertReport.php on line 55
+[22-Jul-2019 13:14:29 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home2/obrasmormex/public_html/controllers/reports/insertReport.php on line 55
+[22-Jul-2019 13:16:18 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home2/obrasmormex/public_html/controllers/reports/insertReport.php on line 55
+[22-Jul-2019 13:19:20 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home2/obrasmormex/public_html/controllers/reports/insertReport.php on line 55
+[22-Jul-2019 13:19:27 America/Mexico_City] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home2/obrasmormex/public_html/controllers/reports/getReport.php on line 8
+[22-Jul-2019 13:19:29 America/Mexico_City] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home2/obrasmormex/public_html/controllers/reports/getReport.php on line 8
+[05-Sep-2019 13:21:07 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home2/obrasmormex/public_html/controllers/reports/insertReport.php on line 56
+[05-Sep-2019 13:23:57 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home2/obrasmormex/public_html/controllers/reports/insertReport.php on line 56
+[05-Sep-2019 13:24:40 America/Mexico_City] PHP Fatal error:  Uncaught exception 'ImagickException' with message 'unable to open image `../../Uploads/UploadsFilesReports/a3ef6ee0b9a323bbc2c63b14594539f3.jpg': No such file or directory @ error/blob.c/OpenBlob/2589' in /home2/obrasmormex/public_html/controllers/reports/insertReport.php:91
+Stack trace:
+#0 /home2/obrasmormex/public_html/controllers/reports/insertReport.php(91): Imagick->__construct('../../Uploads/U...')
+#1 /home2/obrasmormex/public_html/controllers/reports/insertReport.php(42): saveFiles(Array, '../../Uploads/U...')
+#2 {main}
+  thrown in /home2/obrasmormex/public_html/controllers/reports/insertReport.php on line 91
+[05-Sep-2019 13:25:43 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home2/obrasmormex/public_html/controllers/reports/insertReport.php on line 56
+[05-Sep-2019 13:27:56 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home2/obrasmormex/public_html/controllers/reports/insertReport.php on line 56
+[05-Sep-2019 13:31:55 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home2/obrasmormex/public_html/controllers/reports/insertReport.php on line 56
+[05-Sep-2019 13:35:27 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home2/obrasmormex/public_html/controllers/reports/insertReport.php on line 56
+[05-Sep-2019 14:22:15 America/Mexico_City] PHP Fatal error:  Uncaught exception 'ImagickException' with message 'no decode delegate for this image format `../../Uploads/UploadsFilesReports/aa88aaa027943cb492232a5228a51411.xlsm' @ error/constitute.c/ReadImage/532' in /home2/obrasmormex/public_html/controllers/reports/insertReport.php:91
+Stack trace:
+#0 /home2/obrasmormex/public_html/controllers/reports/insertReport.php(91): Imagick->__construct('../../Uploads/U...')
+#1 /home2/obrasmormex/public_html/controllers/reports/insertReport.php(42): saveFiles(Array, '../../Uploads/U...')
+#2 {main}
+  thrown in /home2/obrasmormex/public_html/controllers/reports/insertReport.php on line 91
+[05-Sep-2019 14:24:20 America/Mexico_City] PHP Fatal error:  Uncaught exception 'ImagickException' with message 'no decode delegate for this image format `../../Uploads/UploadsFilesReports/a919556b24815916ebbed67eb0c045c2.xlsm' @ error/constitute.c/ReadImage/532' in /home2/obrasmormex/public_html/controllers/reports/insertReport.php:91
+Stack trace:
+#0 /home2/obrasmormex/public_html/controllers/reports/insertReport.php(91): Imagick->__construct('../../Uploads/U...')
+#1 /home2/obrasmormex/public_html/controllers/reports/insertReport.php(42): saveFiles(Array, '../../Uploads/U...')
+#2 {main}
+  thrown in /home2/obrasmormex/public_html/controllers/reports/insertReport.php on line 91
+[05-Sep-2019 14:27:12 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home2/obrasmormex/public_html/controllers/reports/insertReport.php on line 56
+[09-Sep-2019 15:02:05 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home2/obrasmormex/public_html/controllers/reports/insertReport.php on line 56
+[10-Sep-2019 17:32:38 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home2/obrasmormex/public_html/controllers/reports/insertReport.php on line 56
+[11-Sep-2019 10:16:31 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home2/obrasmormex/public_html/controllers/reports/insertReport.php on line 56
+[11-Sep-2019 19:20:49 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home2/obrasmormex/public_html/controllers/reports/insertReport.php on line 56
+[11-Sep-2019 19:35:48 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home2/obrasmormex/public_html/controllers/reports/insertReport.php on line 56
+[12-Sep-2019 12:35:13 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home2/obrasmormex/public_html/controllers/reports/insertReport.php on line 56
+[12-Sep-2019 12:40:43 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home2/obrasmormex/public_html/controllers/reports/insertReport.php on line 56
+[12-Sep-2019 13:56:32 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home2/obrasmormex/public_html/controllers/reports/insertReport.php on line 56
+[12-Sep-2019 14:01:46 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home2/obrasmormex/public_html/controllers/reports/insertReport.php on line 56
+[12-Sep-2019 14:30:16 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home2/obrasmormex/public_html/controllers/reports/insertReport.php on line 56
+[12-Sep-2019 14:33:39 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home2/obrasmormex/public_html/controllers/reports/insertReport.php on line 56
+[12-Sep-2019 19:30:10 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home2/obrasmormex/public_html/controllers/reports/insertReport.php on line 56
+[13-Sep-2019 12:12:45 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home2/obrasmormex/public_html/controllers/reports/insertReport.php on line 56
+[13-Sep-2019 13:53:10 America/Mexico_City] PHP Fatal error:  Uncaught exception 'ImagickException' with message 'unable to open image `../../Uploads/UploadsFilesReports/31934b2150aa69f0540394865f97dca5.jpg': No such file or directory @ error/blob.c/OpenBlob/2589' in /home2/obrasmormex/public_html/controllers/reports/insertReport.php:91
+Stack trace:
+#0 /home2/obrasmormex/public_html/controllers/reports/insertReport.php(91): Imagick->__construct('../../Uploads/U...')
+#1 /home2/obrasmormex/public_html/controllers/reports/insertReport.php(42): saveFiles(Array, '../../Uploads/U...')
+#2 {main}
+  thrown in /home2/obrasmormex/public_html/controllers/reports/insertReport.php on line 91
+[13-Sep-2019 13:56:36 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home2/obrasmormex/public_html/controllers/reports/insertReport.php on line 56
+[27-Sep-2019 20:02:41 America/Mexico_City] PHP Fatal error:  Uncaught exception 'ImagickException' with message 'unable to open image `../../Uploads/UploadsFilesReports/e928ed3256a24b97e31de917f3534493.jpg': No such file or directory @ error/blob.c/OpenBlob/2589' in /home2/obrasmormex/public_html/controllers/reports/insertReport.php:91
+Stack trace:
+#0 /home2/obrasmormex/public_html/controllers/reports/insertReport.php(91): Imagick->__construct('../../Uploads/U...')
+#1 /home2/obrasmormex/public_html/controllers/reports/insertReport.php(42): saveFiles(Array, '../../Uploads/U...')
+#2 {main}
+  thrown in /home2/obrasmormex/public_html/controllers/reports/insertReport.php on line 91
+[27-Sep-2019 20:02:59 America/Mexico_City] PHP Fatal error:  Uncaught exception 'ImagickException' with message 'unable to open image `../../Uploads/UploadsFilesReports/02f154199b22827885e03126aa18c5fb.jpg': No such file or directory @ error/blob.c/OpenBlob/2589' in /home2/obrasmormex/public_html/controllers/reports/insertReport.php:91
+Stack trace:
+#0 /home2/obrasmormex/public_html/controllers/reports/insertReport.php(91): Imagick->__construct('../../Uploads/U...')
+#1 /home2/obrasmormex/public_html/controllers/reports/insertReport.php(42): saveFiles(Array, '../../Uploads/U...')
+#2 {main}
+  thrown in /home2/obrasmormex/public_html/controllers/reports/insertReport.php on line 91
+[27-Sep-2019 20:34:22 America/Mexico_City] PHP Fatal error:  Uncaught exception 'ImagickException' with message 'unable to open image `../../Uploads/UploadsFilesReports/47a44727b13f49da640161eeb89869b9.jpg': No such file or directory @ error/blob.c/OpenBlob/2589' in /home2/obrasmormex/public_html/controllers/reports/insertReport.php:91
+Stack trace:
+#0 /home2/obrasmormex/public_html/controllers/reports/insertReport.php(91): Imagick->__construct('../../Uploads/U...')
+#1 /home2/obrasmormex/public_html/controllers/reports/insertReport.php(42): saveFiles(Array, '../../Uploads/U...')
+#2 {main}
+  thrown in /home2/obrasmormex/public_html/controllers/reports/insertReport.php on line 91
+[27-Sep-2019 20:34:39 America/Mexico_City] PHP Fatal error:  Uncaught exception 'ImagickException' with message 'unable to open image `../../Uploads/UploadsFilesReports/4ece95ea59f7d75d9a655804370b06be.jpg': No such file or directory @ error/blob.c/OpenBlob/2589' in /home2/obrasmormex/public_html/controllers/reports/insertReport.php:91
+Stack trace:
+#0 /home2/obrasmormex/public_html/controllers/reports/insertReport.php(91): Imagick->__construct('../../Uploads/U...')
+#1 /home2/obrasmormex/public_html/controllers/reports/insertReport.php(42): saveFiles(Array, '../../Uploads/U...')
+#2 {main}
+  thrown in /home2/obrasmormex/public_html/controllers/reports/insertReport.php on line 91
+[27-Sep-2019 20:37:16 America/Mexico_City] PHP Fatal error:  Uncaught exception 'ImagickException' with message 'unable to open image `../../Uploads/UploadsFilesReports/826a1f17c8c36247012a59048f0ad912.jpg': No such file or directory @ error/blob.c/OpenBlob/2589' in /home2/obrasmormex/public_html/controllers/reports/insertReport.php:91
+Stack trace:
+#0 /home2/obrasmormex/public_html/controllers/reports/insertReport.php(91): Imagick->__construct('../../Uploads/U...')
+#1 /home2/obrasmormex/public_html/controllers/reports/insertReport.php(42): saveFiles(Array, '../../Uploads/U...')
+#2 {main}
+  thrown in /home2/obrasmormex/public_html/controllers/reports/insertReport.php on line 91
+[27-Sep-2019 20:46:56 America/Mexico_City] PHP Fatal error:  Uncaught exception 'ImagickException' with message 'unable to open image `../../Uploads/UploadsFilesReports/16f3256728c494bb9ffd33d653262136.jpg': No such file or directory @ error/blob.c/OpenBlob/2589' in /home2/obrasmormex/public_html/controllers/reports/insertReport.php:91
+Stack trace:
+#0 /home2/obrasmormex/public_html/controllers/reports/insertReport.php(91): Imagick->__construct('../../Uploads/U...')
+#1 /home2/obrasmormex/public_html/controllers/reports/insertReport.php(42): saveFiles(Array, '../../Uploads/U...')
+#2 {main}
+  thrown in /home2/obrasmormex/public_html/controllers/reports/insertReport.php on line 91
+[27-Sep-2019 20:47:22 America/Mexico_City] PHP Fatal error:  Uncaught exception 'ImagickException' with message 'unable to open image `../../Uploads/UploadsFilesReports/69d3343efeab0173709d2edb237bff37.jpg': No such file or directory @ error/blob.c/OpenBlob/2589' in /home2/obrasmormex/public_html/controllers/reports/insertReport.php:91
+Stack trace:
+#0 /home2/obrasmormex/public_html/controllers/reports/insertReport.php(91): Imagick->__construct('../../Uploads/U...')
+#1 /home2/obrasmormex/public_html/controllers/reports/insertReport.php(42): saveFiles(Array, '../../Uploads/U...')
+#2 {main}
+  thrown in /home2/obrasmormex/public_html/controllers/reports/insertReport.php on line 91
+[27-Sep-2019 20:47:44 America/Mexico_City] PHP Fatal error:  Uncaught exception 'ImagickException' with message 'unable to open image `../../Uploads/UploadsFilesReports/6caa0c5bca7846df4bbd6a7b395c9519.jpg': No such file or directory @ error/blob.c/OpenBlob/2589' in /home2/obrasmormex/public_html/controllers/reports/insertReport.php:91
+Stack trace:
+#0 /home2/obrasmormex/public_html/controllers/reports/insertReport.php(91): Imagick->__construct('../../Uploads/U...')
+#1 /home2/obrasmormex/public_html/controllers/reports/insertReport.php(42): saveFiles(Array, '../../Uploads/U...')
+#2 {main}
+  thrown in /home2/obrasmormex/public_html/controllers/reports/insertReport.php on line 91
+[27-Sep-2019 21:09:44 America/Mexico_City] PHP Fatal error:  Uncaught exception 'ImagickException' with message 'unable to open image `../../Uploads/UploadsFilesReports/677670249646109a26093b850c4b2f64.jpg': No such file or directory @ error/blob.c/OpenBlob/2589' in /home2/obrasmormex/public_html/controllers/reports/insertReport.php:91
+Stack trace:
+#0 /home2/obrasmormex/public_html/controllers/reports/insertReport.php(91): Imagick->__construct('../../Uploads/U...')
+#1 /home2/obrasmormex/public_html/controllers/reports/insertReport.php(42): saveFiles(Array, '../../Uploads/U...')
+#2 {main}
+  thrown in /home2/obrasmormex/public_html/controllers/reports/insertReport.php on line 91
+[30-Sep-2019 13:02:19 America/Mexico_City] PHP Fatal error:  Uncaught exception 'ImagickException' with message 'unable to open image `../../Uploads/UploadsFilesReports/2d4200d5bcc20f41fd05b5d9ac405682.jpg': No such file or directory @ error/blob.c/OpenBlob/2589' in /home2/obrasmormex/public_html/controllers/reports/insertReport.php:91
+Stack trace:
+#0 /home2/obrasmormex/public_html/controllers/reports/insertReport.php(91): Imagick->__construct('../../Uploads/U...')
+#1 /home2/obrasmormex/public_html/controllers/reports/insertReport.php(42): saveFiles(Array, '../../Uploads/U...')
+#2 {main}
+  thrown in /home2/obrasmormex/public_html/controllers/reports/insertReport.php on line 91
+[30-Sep-2019 13:02:50 America/Mexico_City] PHP Fatal error:  Uncaught exception 'ImagickException' with message 'unable to open image `../../Uploads/UploadsFilesReports/b7378c8e2b8ec29ae24c60408184f4c6.jpg': No such file or directory @ error/blob.c/OpenBlob/2589' in /home2/obrasmormex/public_html/controllers/reports/insertReport.php:91
+Stack trace:
+#0 /home2/obrasmormex/public_html/controllers/reports/insertReport.php(91): Imagick->__construct('../../Uploads/U...')
+#1 /home2/obrasmormex/public_html/controllers/reports/insertReport.php(42): saveFiles(Array, '../../Uploads/U...')
+#2 {main}
+  thrown in /home2/obrasmormex/public_html/controllers/reports/insertReport.php on line 91
+[30-Sep-2019 13:08:59 America/Mexico_City] PHP Fatal error:  Uncaught exception 'ImagickException' with message 'unable to open image `../../Uploads/UploadsFilesReports/8635e035f5d6723b4683437e4615d11c.jpg': No such file or directory @ error/blob.c/OpenBlob/2589' in /home2/obrasmormex/public_html/controllers/reports/insertReport.php:91
+Stack trace:
+#0 /home2/obrasmormex/public_html/controllers/reports/insertReport.php(91): Imagick->__construct('../../Uploads/U...')
+#1 /home2/obrasmormex/public_html/controllers/reports/insertReport.php(42): saveFiles(Array, '../../Uploads/U...')
+#2 {main}
+  thrown in /home2/obrasmormex/public_html/controllers/reports/insertReport.php on line 91
+[30-Sep-2019 13:39:44 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home2/obrasmormex/public_html/controllers/reports/insertReport.php on line 56
+[30-Sep-2019 13:52:47 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home2/obrasmormex/public_html/controllers/reports/insertReport.php on line 56
+[30-Sep-2019 13:58:30 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home2/obrasmormex/public_html/controllers/reports/insertReport.php on line 56
+[30-Sep-2019 14:11:13 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home2/obrasmormex/public_html/controllers/reports/insertReport.php on line 56
+[30-Sep-2019 14:15:25 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home2/obrasmormex/public_html/controllers/reports/insertReport.php on line 56
+[30-Sep-2019 23:39:37 America/Mexico_City] PHP Fatal error:  Uncaught exception 'ImagickException' with message 'unable to open image `../../Uploads/UploadsFilesReports/90c575a57c5ecffa2f95158c8e44abef.jpg': No such file or directory @ error/blob.c/OpenBlob/2589' in /home2/obrasmormex/public_html/controllers/reports/insertReport.php:91
+Stack trace:
+#0 /home2/obrasmormex/public_html/controllers/reports/insertReport.php(91): Imagick->__construct('../../Uploads/U...')
+#1 /home2/obrasmormex/public_html/controllers/reports/insertReport.php(42): saveFiles(Array, '../../Uploads/U...')
+#2 {main}
+  thrown in /home2/obrasmormex/public_html/controllers/reports/insertReport.php on line 91
+[30-Sep-2019 23:48:41 America/Mexico_City] PHP Fatal error:  Uncaught exception 'ImagickException' with message 'unable to open image `../../Uploads/UploadsFilesReports/57af6e19c7c9ce1fb20b93a872e5f193.jpg': No such file or directory @ error/blob.c/OpenBlob/2589' in /home2/obrasmormex/public_html/controllers/reports/insertReport.php:91
+Stack trace:
+#0 /home2/obrasmormex/public_html/controllers/reports/insertReport.php(91): Imagick->__construct('../../Uploads/U...')
+#1 /home2/obrasmormex/public_html/controllers/reports/insertReport.php(42): saveFiles(Array, '../../Uploads/U...')
+#2 {main}
+  thrown in /home2/obrasmormex/public_html/controllers/reports/insertReport.php on line 91
+[02-Oct-2019 15:39:18 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home2/obrasmormex/public_html/controllers/reports/insertReport.php on line 56
+[02-Oct-2019 15:43:12 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home2/obrasmormex/public_html/controllers/reports/insertReport.php on line 56
+[02-Oct-2019 16:26:12 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home2/obrasmormex/public_html/controllers/reports/insertReport.php on line 56
+[02-Oct-2019 16:36:25 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home2/obrasmormex/public_html/controllers/reports/insertReport.php on line 56
+[02-Oct-2019 23:27:19 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home2/obrasmormex/public_html/controllers/reports/insertReport.php on line 56
+[02-Oct-2019 23:29:25 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home2/obrasmormex/public_html/controllers/reports/insertReport.php on line 56
+[02-Oct-2019 23:38:17 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home2/obrasmormex/public_html/controllers/reports/insertReport.php on line 56
+[02-Oct-2019 23:51:49 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home2/obrasmormex/public_html/controllers/reports/insertReport.php on line 56
+[02-Oct-2019 23:59:03 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home2/obrasmormex/public_html/controllers/reports/insertReport.php on line 56
+[03-Oct-2019 00:09:15 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home2/obrasmormex/public_html/controllers/reports/insertReport.php on line 56
+[03-Oct-2019 00:10:02 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home2/obrasmormex/public_html/controllers/reports/insertReport.php on line 56
+[03-Oct-2019 00:11:00 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home2/obrasmormex/public_html/controllers/reports/insertReport.php on line 56
+[03-Oct-2019 00:22:56 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home2/obrasmormex/public_html/controllers/reports/insertReport.php on line 56
+[03-Oct-2019 00:31:24 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home2/obrasmormex/public_html/controllers/reports/insertReport.php on line 56
+[03-Oct-2019 00:42:28 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home2/obrasmormex/public_html/controllers/reports/insertReport.php on line 56
+[03-Oct-2019 00:46:27 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home2/obrasmormex/public_html/controllers/reports/insertReport.php on line 56
+[03-Oct-2019 00:50:10 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home2/obrasmormex/public_html/controllers/reports/insertReport.php on line 56
+[03-Oct-2019 00:55:36 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home2/obrasmormex/public_html/controllers/reports/insertReport.php on line 56
+[03-Oct-2019 00:58:22 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home2/obrasmormex/public_html/controllers/reports/insertReport.php on line 56
+[03-Oct-2019 01:10:18 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home2/obrasmormex/public_html/controllers/reports/insertReport.php on line 56
+[03-Oct-2019 13:54:44 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home2/obrasmormex/public_html/controllers/reports/insertReport.php on line 56
+[03-Oct-2019 13:56:12 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home2/obrasmormex/public_html/controllers/reports/insertReport.php on line 56
+[03-Oct-2019 13:59:51 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home2/obrasmormex/public_html/controllers/reports/insertReport.php on line 56
+[03-Oct-2019 14:08:28 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home2/obrasmormex/public_html/controllers/reports/insertReport.php on line 56
+[03-Oct-2019 14:10:46 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home2/obrasmormex/public_html/controllers/reports/insertReport.php on line 56
+[03-Oct-2019 14:14:31 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home2/obrasmormex/public_html/controllers/reports/insertReport.php on line 56
+[04-Oct-2019 00:11:01 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home2/obrasmormex/public_html/controllers/reports/insertReport.php on line 56
+[11-Oct-2019 15:54:15 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home2/obrasmormex/public_html/controllers/reports/insertReport.php on line 56
+[11-Oct-2019 16:02:54 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home2/obrasmormex/public_html/controllers/reports/insertReport.php on line 56
+[14-Oct-2019 23:15:03 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home2/obrasmormex/public_html/controllers/reports/insertReport.php on line 56
+[16-Oct-2019 23:31:17 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home2/obrasmormex/public_html/controllers/reports/insertReport.php on line 56
+[16-Oct-2019 23:55:35 America/Mexico_City] PHP Fatal error:  Uncaught exception 'ImagickException' with message 'unable to open image `../../Uploads/UploadsFilesReports/cbfa90b784682ae23785bf5170905475.jpg': No such file or directory @ error/blob.c/OpenBlob/2589' in /home2/obrasmormex/public_html/controllers/reports/insertReport.php:91
+Stack trace:
+#0 /home2/obrasmormex/public_html/controllers/reports/insertReport.php(91): Imagick->__construct('../../Uploads/U...')
+#1 /home2/obrasmormex/public_html/controllers/reports/insertReport.php(42): saveFiles(Array, '../../Uploads/U...')
+#2 {main}
+  thrown in /home2/obrasmormex/public_html/controllers/reports/insertReport.php on line 91
+[17-Oct-2019 00:20:58 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home2/obrasmormex/public_html/controllers/reports/insertReport.php on line 56
+[17-Oct-2019 00:28:34 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home2/obrasmormex/public_html/controllers/reports/insertReport.php on line 56
+[17-Oct-2019 00:32:42 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home2/obrasmormex/public_html/controllers/reports/insertReport.php on line 56
+[17-Oct-2019 00:39:54 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home2/obrasmormex/public_html/controllers/reports/insertReport.php on line 56
+[23-Oct-2019 01:24:28 America/Mexico_City] PHP Fatal error:  Uncaught exception 'ImagickException' with message 'unable to open image `../../Uploads/UploadsFilesReports/073e2b9baf4a53c26e29eb44d665309c.jpg': No such file or directory @ error/blob.c/OpenBlob/2589' in /home2/obrasmormex/public_html/controllers/reports/insertReport.php:91
+Stack trace:
+#0 /home2/obrasmormex/public_html/controllers/reports/insertReport.php(91): Imagick->__construct('../../Uploads/U...')
+#1 /home2/obrasmormex/public_html/controllers/reports/insertReport.php(42): saveFiles(Array, '../../Uploads/U...')
+#2 {main}
+  thrown in /home2/obrasmormex/public_html/controllers/reports/insertReport.php on line 91
+[23-Oct-2019 01:34:56 America/Mexico_City] PHP Fatal error:  Uncaught exception 'ImagickException' with message 'unable to open image `../../Uploads/UploadsFilesReports/5b1070f5a85d923e8cec89f44c7a565a.jpg': No such file or directory @ error/blob.c/OpenBlob/2589' in /home2/obrasmormex/public_html/controllers/reports/insertReport.php:91
+Stack trace:
+#0 /home2/obrasmormex/public_html/controllers/reports/insertReport.php(91): Imagick->__construct('../../Uploads/U...')
+#1 /home2/obrasmormex/public_html/controllers/reports/insertReport.php(42): saveFiles(Array, '../../Uploads/U...')
+#2 {main}
+  thrown in /home2/obrasmormex/public_html/controllers/reports/insertReport.php on line 91
+[23-Oct-2019 01:57:29 America/Mexico_City] PHP Fatal error:  Uncaught exception 'ImagickException' with message 'unable to open image `../../Uploads/UploadsFilesReports/d31f20d4e2ec40d2c58c8506e30d61b0.jpg': No such file or directory @ error/blob.c/OpenBlob/2589' in /home2/obrasmormex/public_html/controllers/reports/insertReport.php:91
+Stack trace:
+#0 /home2/obrasmormex/public_html/controllers/reports/insertReport.php(91): Imagick->__construct('../../Uploads/U...')
+#1 /home2/obrasmormex/public_html/controllers/reports/insertReport.php(42): saveFiles(Array, '../../Uploads/U...')
+#2 {main}
+  thrown in /home2/obrasmormex/public_html/controllers/reports/insertReport.php on line 91
+[25-Oct-2019 11:25:11 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home2/obrasmormex/public_html/controllers/reports/insertReport.php on line 56
+[25-Oct-2019 11:26:51 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home2/obrasmormex/public_html/controllers/reports/insertReport.php on line 56
+[25-Oct-2019 11:29:15 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home2/obrasmormex/public_html/controllers/reports/insertReport.php on line 56
+[25-Oct-2019 11:31:38 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home2/obrasmormex/public_html/controllers/reports/insertReport.php on line 56
+[25-Oct-2019 12:55:03 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home2/obrasmormex/public_html/controllers/reports/insertReport.php on line 56
+[25-Oct-2019 14:00:01 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home2/obrasmormex/public_html/controllers/reports/insertReport.php on line 56
+[25-Oct-2019 14:04:39 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home2/obrasmormex/public_html/controllers/reports/insertReport.php on line 56
+[25-Oct-2019 14:05:35 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home2/obrasmormex/public_html/controllers/reports/insertReport.php on line 56
+[25-Oct-2019 14:06:25 America/Mexico_City] PHP Fatal error:  Uncaught exception 'ImagickException' with message 'unable to open image `../../Uploads/UploadsFilesReports/10e50ac09ba8392f6ead5e3ba0f42d85.jpg': No such file or directory @ error/blob.c/OpenBlob/2589' in /home2/obrasmormex/public_html/controllers/reports/insertReport.php:91
+Stack trace:
+#0 /home2/obrasmormex/public_html/controllers/reports/insertReport.php(91): Imagick->__construct('../../Uploads/U...')
+#1 /home2/obrasmormex/public_html/controllers/reports/insertReport.php(42): saveFiles(Array, '../../Uploads/U...')
+#2 {main}
+  thrown in /home2/obrasmormex/public_html/controllers/reports/insertReport.php on line 91
+[25-Oct-2019 14:06:32 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home2/obrasmormex/public_html/controllers/reports/insertReport.php on line 56
+[25-Oct-2019 14:37:03 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home2/obrasmormex/public_html/controllers/reports/insertReport.php on line 56
+[25-Oct-2019 14:39:27 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home2/obrasmormex/public_html/controllers/reports/insertReport.php on line 56
+[25-Oct-2019 14:44:41 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home2/obrasmormex/public_html/controllers/reports/insertReport.php on line 56
+[25-Oct-2019 14:54:05 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home2/obrasmormex/public_html/controllers/reports/insertReport.php on line 56
+[25-Oct-2019 14:56:05 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home2/obrasmormex/public_html/controllers/reports/insertReport.php on line 56
+[25-Oct-2019 14:56:06 America/Mexico_City] PHP Fatal error:  Uncaught exception 'ImagickException' with message 'unable to open image `../../Uploads/UploadsFilesReports/fc9af5b54929d5d948f686613d4e3de7.jpg': No such file or directory @ error/blob.c/OpenBlob/2589' in /home2/obrasmormex/public_html/controllers/reports/insertReport.php:91
+Stack trace:
+#0 /home2/obrasmormex/public_html/controllers/reports/insertReport.php(91): Imagick->__construct('../../Uploads/U...')
+#1 /home2/obrasmormex/public_html/controllers/reports/insertReport.php(42): saveFiles(Array, '../../Uploads/U...')
+#2 {main}
+  thrown in /home2/obrasmormex/public_html/controllers/reports/insertReport.php on line 91

@@ -1,0 +1,217 @@
+[06-Apr-2019 12:21:17 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home/obrasmormex/public_html/controllers/fichas/ficha.php on line 81
+[08-Apr-2019 23:06:06 America/Mexico_City] PHP Warning:  mysqli::query(): Empty query in /home/obrasmormex/public_html/controllers/fichas/ficha.php on line 67
+[08-Apr-2019 23:06:06 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/obrasmormex/public_html/controllers/fichas/ficha.php:67) in /home/obrasmormex/public_html/controllers/fichas/ficha.php on line 73
+[08-Apr-2019 23:06:06 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home/obrasmormex/public_html/controllers/fichas/ficha.php on line 81
+[08-Apr-2019 23:07:34 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home/obrasmormex/public_html/controllers/fichas/ficha.php on line 81
+[08-Apr-2019 23:12:38 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home/obrasmormex/public_html/controllers/fichas/ficha.php on line 81
+[08-Apr-2019 23:30:27 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home/obrasmormex/public_html/controllers/fichas/ficha.php on line 81
+[09-Apr-2019 09:57:54 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home/obrasmormex/public_html/controllers/fichas/ficha.php on line 81
+[09-Apr-2019 09:58:16 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home/obrasmormex/public_html/controllers/fichas/ficha.php on line 81
+[09-Apr-2019 10:00:37 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home/obrasmormex/public_html/controllers/fichas/ficha.php on line 81
+[09-Apr-2019 10:00:55 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home/obrasmormex/public_html/controllers/fichas/ficha.php on line 81
+[09-Apr-2019 10:02:27 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home/obrasmormex/public_html/controllers/fichas/ficha.php on line 81
+[22-Jul-2019 11:12:29 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home2/obrasmormex/public_html/controllers/fichas/ficha.php on line 75
+[22-Jul-2019 11:27:58 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home2/obrasmormex/public_html/controllers/fichas/ficha.php on line 75
+[22-Jul-2019 12:16:55 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home2/obrasmormex/public_html/controllers/fichas/ficha.php on line 75
+[05-Aug-2019 16:57:03 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home2/obrasmormex/public_html/controllers/fichas/ficha.php on line 75
+[05-Aug-2019 18:19:33 America/Mexico_City] PHP Fatal error:  Uncaught exception 'ImagickException' with message 'unable to open image `../../Uploads/UploadsFilesFicha/d78d3503bf9fad74ced8c595670c8f25.jpeg': No such file or directory @ error/blob.c/OpenBlob/2589' in /home2/obrasmormex/public_html/controllers/fichas/ficha.php:107
+Stack trace:
+#0 /home2/obrasmormex/public_html/controllers/fichas/ficha.php(107): Imagick->__construct('../../Uploads/U...')
+#1 /home2/obrasmormex/public_html/controllers/fichas/ficha.php(43): saveFiles(Array, '../../Uploads/U...')
+#2 {main}
+  thrown in /home2/obrasmormex/public_html/controllers/fichas/ficha.php on line 107
+[05-Aug-2019 18:19:45 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home2/obrasmormex/public_html/controllers/fichas/ficha.php on line 75
+[05-Aug-2019 18:20:01 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home2/obrasmormex/public_html/controllers/fichas/ficha.php on line 75
+[05-Aug-2019 18:20:09 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home2/obrasmormex/public_html/controllers/fichas/ficha.php on line 75
+[05-Aug-2019 18:20:47 America/Mexico_City] PHP Fatal error:  Uncaught exception 'ImagickException' with message 'unable to open image `../../Uploads/UploadsFilesFicha/061895b668bd23b6f69188b2bcfec707.jpeg': No such file or directory @ error/blob.c/OpenBlob/2589' in /home2/obrasmormex/public_html/controllers/fichas/ficha.php:107
+Stack trace:
+#0 /home2/obrasmormex/public_html/controllers/fichas/ficha.php(107): Imagick->__construct('../../Uploads/U...')
+#1 /home2/obrasmormex/public_html/controllers/fichas/ficha.php(43): saveFiles(Array, '../../Uploads/U...')
+#2 {main}
+  thrown in /home2/obrasmormex/public_html/controllers/fichas/ficha.php on line 107
+[05-Aug-2019 18:21:32 America/Mexico_City] PHP Fatal error:  Uncaught exception 'ImagickException' with message 'unable to open image `../../Uploads/UploadsFilesFicha/6660916f040370132bcd4f053c358476.jpeg': No such file or directory @ error/blob.c/OpenBlob/2589' in /home2/obrasmormex/public_html/controllers/fichas/ficha.php:107
+Stack trace:
+#0 /home2/obrasmormex/public_html/controllers/fichas/ficha.php(107): Imagick->__construct('../../Uploads/U...')
+#1 /home2/obrasmormex/public_html/controllers/fichas/ficha.php(43): saveFiles(Array, '../../Uploads/U...')
+#2 {main}
+  thrown in /home2/obrasmormex/public_html/controllers/fichas/ficha.php on line 107
+[05-Aug-2019 18:21:36 America/Mexico_City] PHP Fatal error:  Uncaught exception 'ImagickException' with message 'unable to open image `../../Uploads/UploadsFilesFicha/74c5771ab059f0721878bef38ebf942c.jpeg': No such file or directory @ error/blob.c/OpenBlob/2589' in /home2/obrasmormex/public_html/controllers/fichas/ficha.php:107
+Stack trace:
+#0 /home2/obrasmormex/public_html/controllers/fichas/ficha.php(107): Imagick->__construct('../../Uploads/U...')
+#1 /home2/obrasmormex/public_html/controllers/fichas/ficha.php(43): saveFiles(Array, '../../Uploads/U...')
+#2 {main}
+  thrown in /home2/obrasmormex/public_html/controllers/fichas/ficha.php on line 107
+[05-Aug-2019 18:22:01 America/Mexico_City] PHP Fatal error:  Uncaught exception 'ImagickException' with message 'unable to open image `../../Uploads/UploadsFilesFicha/ec847c561a2353654d34e7801e7b44f8.jpeg': No such file or directory @ error/blob.c/OpenBlob/2589' in /home2/obrasmormex/public_html/controllers/fichas/ficha.php:107
+Stack trace:
+#0 /home2/obrasmormex/public_html/controllers/fichas/ficha.php(107): Imagick->__construct('../../Uploads/U...')
+#1 /home2/obrasmormex/public_html/controllers/fichas/ficha.php(43): saveFiles(Array, '../../Uploads/U...')
+#2 {main}
+  thrown in /home2/obrasmormex/public_html/controllers/fichas/ficha.php on line 107
+[05-Aug-2019 18:22:46 America/Mexico_City] PHP Warning:  unlink(): No such file or directory in /home2/obrasmormex/public_html/controllers/fichas/ficha.php on line 64
+[05-Aug-2019 18:22:46 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/obrasmormex/public_html/controllers/fichas/ficha.php:64) in /home2/obrasmormex/public_html/controllers/fichas/ficha.php on line 67
+[05-Aug-2019 18:22:46 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home2/obrasmormex/public_html/controllers/fichas/ficha.php on line 75
+[05-Aug-2019 18:24:03 America/Mexico_City] PHP Fatal error:  Uncaught exception 'ImagickException' with message 'unable to open image `../../Uploads/UploadsFilesFicha/9c97bd2f81c9f7ab0501b398d6ef8953.jpeg': No such file or directory @ error/blob.c/OpenBlob/2589' in /home2/obrasmormex/public_html/controllers/fichas/ficha.php:107
+Stack trace:
+#0 /home2/obrasmormex/public_html/controllers/fichas/ficha.php(107): Imagick->__construct('../../Uploads/U...')
+#1 /home2/obrasmormex/public_html/controllers/fichas/ficha.php(43): saveFiles(Array, '../../Uploads/U...')
+#2 {main}
+  thrown in /home2/obrasmormex/public_html/controllers/fichas/ficha.php on line 107
+[05-Aug-2019 18:27:36 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home2/obrasmormex/public_html/controllers/fichas/ficha.php on line 75
+[05-Aug-2019 18:27:44 America/Mexico_City] PHP Warning:  unlink(): No such file or directory in /home2/obrasmormex/public_html/controllers/fichas/ficha.php on line 64
+[05-Aug-2019 18:27:44 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/obrasmormex/public_html/controllers/fichas/ficha.php:64) in /home2/obrasmormex/public_html/controllers/fichas/ficha.php on line 67
+[05-Aug-2019 18:27:44 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home2/obrasmormex/public_html/controllers/fichas/ficha.php on line 75
+[05-Aug-2019 18:29:43 America/Mexico_City] PHP Fatal error:  Uncaught exception 'ImagickException' with message 'unable to open image `../../Uploads/UploadsFilesFicha/6c18bc46a436a5063ff1d253a9533681.jpeg': No such file or directory @ error/blob.c/OpenBlob/2589' in /home2/obrasmormex/public_html/controllers/fichas/ficha.php:107
+Stack trace:
+#0 /home2/obrasmormex/public_html/controllers/fichas/ficha.php(107): Imagick->__construct('../../Uploads/U...')
+#1 /home2/obrasmormex/public_html/controllers/fichas/ficha.php(43): saveFiles(Array, '../../Uploads/U...')
+#2 {main}
+  thrown in /home2/obrasmormex/public_html/controllers/fichas/ficha.php on line 107
+[05-Aug-2019 18:30:16 America/Mexico_City] PHP Warning:  unlink(): No such file or directory in /home2/obrasmormex/public_html/controllers/fichas/ficha.php on line 64
+[05-Aug-2019 18:30:16 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/obrasmormex/public_html/controllers/fichas/ficha.php:64) in /home2/obrasmormex/public_html/controllers/fichas/ficha.php on line 67
+[05-Aug-2019 18:30:16 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home2/obrasmormex/public_html/controllers/fichas/ficha.php on line 75
+[05-Aug-2019 18:31:11 America/Mexico_City] PHP Warning:  unlink(): No such file or directory in /home2/obrasmormex/public_html/controllers/fichas/ficha.php on line 64
+[05-Aug-2019 18:31:11 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/obrasmormex/public_html/controllers/fichas/ficha.php:64) in /home2/obrasmormex/public_html/controllers/fichas/ficha.php on line 67
+[05-Aug-2019 18:31:11 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home2/obrasmormex/public_html/controllers/fichas/ficha.php on line 75
+[05-Aug-2019 18:31:29 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home2/obrasmormex/public_html/controllers/fichas/ficha.php on line 75
+[05-Aug-2019 18:32:21 America/Mexico_City] PHP Warning:  unlink(): No such file or directory in /home2/obrasmormex/public_html/controllers/fichas/ficha.php on line 64
+[05-Aug-2019 18:32:21 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/obrasmormex/public_html/controllers/fichas/ficha.php:64) in /home2/obrasmormex/public_html/controllers/fichas/ficha.php on line 67
+[05-Aug-2019 18:32:21 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home2/obrasmormex/public_html/controllers/fichas/ficha.php on line 75
+[05-Aug-2019 18:33:42 America/Mexico_City] PHP Warning:  unlink(): No such file or directory in /home2/obrasmormex/public_html/controllers/fichas/ficha.php on line 64
+[05-Aug-2019 18:33:42 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/obrasmormex/public_html/controllers/fichas/ficha.php:64) in /home2/obrasmormex/public_html/controllers/fichas/ficha.php on line 67
+[05-Aug-2019 18:33:42 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home2/obrasmormex/public_html/controllers/fichas/ficha.php on line 75
+[05-Aug-2019 18:34:02 America/Mexico_City] PHP Warning:  unlink(): No such file or directory in /home2/obrasmormex/public_html/controllers/fichas/ficha.php on line 64
+[05-Aug-2019 18:34:02 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/obrasmormex/public_html/controllers/fichas/ficha.php:64) in /home2/obrasmormex/public_html/controllers/fichas/ficha.php on line 67
+[05-Aug-2019 18:34:02 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home2/obrasmormex/public_html/controllers/fichas/ficha.php on line 75
+[05-Aug-2019 18:34:44 America/Mexico_City] PHP Warning:  unlink(): No such file or directory in /home2/obrasmormex/public_html/controllers/fichas/ficha.php on line 64
+[05-Aug-2019 18:34:44 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/obrasmormex/public_html/controllers/fichas/ficha.php:64) in /home2/obrasmormex/public_html/controllers/fichas/ficha.php on line 67
+[05-Aug-2019 18:34:44 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home2/obrasmormex/public_html/controllers/fichas/ficha.php on line 75
+[05-Aug-2019 18:35:24 America/Mexico_City] PHP Warning:  unlink(): No such file or directory in /home2/obrasmormex/public_html/controllers/fichas/ficha.php on line 64
+[05-Aug-2019 18:35:24 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/obrasmormex/public_html/controllers/fichas/ficha.php:64) in /home2/obrasmormex/public_html/controllers/fichas/ficha.php on line 67
+[05-Aug-2019 18:35:24 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home2/obrasmormex/public_html/controllers/fichas/ficha.php on line 75
+[05-Aug-2019 18:36:16 America/Mexico_City] PHP Warning:  unlink(): No such file or directory in /home2/obrasmormex/public_html/controllers/fichas/ficha.php on line 64
+[05-Aug-2019 18:36:16 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/obrasmormex/public_html/controllers/fichas/ficha.php:64) in /home2/obrasmormex/public_html/controllers/fichas/ficha.php on line 67
+[05-Aug-2019 18:36:16 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home2/obrasmormex/public_html/controllers/fichas/ficha.php on line 75
+[05-Aug-2019 18:37:27 America/Mexico_City] PHP Warning:  unlink(): No such file or directory in /home2/obrasmormex/public_html/controllers/fichas/ficha.php on line 64
+[05-Aug-2019 18:37:27 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/obrasmormex/public_html/controllers/fichas/ficha.php:64) in /home2/obrasmormex/public_html/controllers/fichas/ficha.php on line 67
+[05-Aug-2019 18:37:27 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home2/obrasmormex/public_html/controllers/fichas/ficha.php on line 75
+[05-Aug-2019 18:37:31 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home2/obrasmormex/public_html/controllers/fichas/ficha.php on line 75
+[05-Aug-2019 18:39:15 America/Mexico_City] PHP Warning:  unlink(): No such file or directory in /home2/obrasmormex/public_html/controllers/fichas/ficha.php on line 64
+[05-Aug-2019 18:39:15 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/obrasmormex/public_html/controllers/fichas/ficha.php:64) in /home2/obrasmormex/public_html/controllers/fichas/ficha.php on line 67
+[05-Aug-2019 18:39:15 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home2/obrasmormex/public_html/controllers/fichas/ficha.php on line 75
+[05-Aug-2019 18:43:36 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home2/obrasmormex/public_html/controllers/fichas/ficha.php on line 75
+[04-Sep-2019 18:34:07 America/Mexico_City] PHP Fatal error:  Uncaught exception 'ImagickException' with message 'unable to open image `../../Uploads/UploadsFilesFicha/73cb6db8c1e7a9d155f0fa3a032a7131.jpg': No such file or directory @ error/blob.c/OpenBlob/2589' in /home2/obrasmormex/public_html/controllers/fichas/ficha.php:107
+Stack trace:
+#0 /home2/obrasmormex/public_html/controllers/fichas/ficha.php(107): Imagick->__construct('../../Uploads/U...')
+#1 /home2/obrasmormex/public_html/controllers/fichas/ficha.php(43): saveFiles(Array, '../../Uploads/U...')
+#2 {main}
+  thrown in /home2/obrasmormex/public_html/controllers/fichas/ficha.php on line 107
+[04-Sep-2019 18:34:31 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home2/obrasmormex/public_html/controllers/fichas/ficha.php on line 75
+[04-Sep-2019 18:34:31 America/Mexico_City] PHP Fatal error:  Uncaught exception 'ImagickException' with message 'unable to open image `../../Uploads/UploadsFilesFicha/25be5fab450681659c675580f2fda8a3.jpg': No such file or directory @ error/blob.c/OpenBlob/2589' in /home2/obrasmormex/public_html/controllers/fichas/ficha.php:107
+Stack trace:
+#0 /home2/obrasmormex/public_html/controllers/fichas/ficha.php(107): Imagick->__construct('../../Uploads/U...')
+#1 /home2/obrasmormex/public_html/controllers/fichas/ficha.php(43): saveFiles(Array, '../../Uploads/U...')
+#2 {main}
+  thrown in /home2/obrasmormex/public_html/controllers/fichas/ficha.php on line 107
+[05-Sep-2019 10:14:58 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home2/obrasmormex/public_html/controllers/fichas/ficha.php on line 75
+[05-Sep-2019 10:28:51 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home2/obrasmormex/public_html/controllers/fichas/ficha.php on line 75
+[05-Sep-2019 11:00:47 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home2/obrasmormex/public_html/controllers/fichas/ficha.php on line 75
+[05-Sep-2019 11:00:54 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home2/obrasmormex/public_html/controllers/fichas/ficha.php on line 75
+[05-Sep-2019 11:05:38 America/Mexico_City] PHP Fatal error:  Uncaught exception 'ImagickException' with message 'unable to open image `../../Uploads/UploadsFilesFicha/208d81e13304131b97b78e00eeb76e33.jpg': No such file or directory @ error/blob.c/OpenBlob/2589' in /home2/obrasmormex/public_html/controllers/fichas/ficha.php:107
+Stack trace:
+#0 /home2/obrasmormex/public_html/controllers/fichas/ficha.php(107): Imagick->__construct('../../Uploads/U...')
+#1 /home2/obrasmormex/public_html/controllers/fichas/ficha.php(43): saveFiles(Array, '../../Uploads/U...')
+#2 {main}
+  thrown in /home2/obrasmormex/public_html/controllers/fichas/ficha.php on line 107
+[05-Sep-2019 11:25:21 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home2/obrasmormex/public_html/controllers/fichas/ficha.php on line 75
+[05-Sep-2019 13:05:56 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home2/obrasmormex/public_html/controllers/fichas/ficha.php on line 75
+[05-Sep-2019 13:06:06 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home2/obrasmormex/public_html/controllers/fichas/ficha.php on line 75
+[05-Sep-2019 13:08:54 America/Mexico_City] PHP Fatal error:  Uncaught exception 'ImagickException' with message 'unable to open image `../../Uploads/UploadsFilesFicha/e0da469b58dbe8963d564d77d0064c2c.jpg': No such file or directory @ error/blob.c/OpenBlob/2589' in /home2/obrasmormex/public_html/controllers/fichas/ficha.php:107
+Stack trace:
+#0 /home2/obrasmormex/public_html/controllers/fichas/ficha.php(107): Imagick->__construct('../../Uploads/U...')
+#1 /home2/obrasmormex/public_html/controllers/fichas/ficha.php(43): saveFiles(Array, '../../Uploads/U...')
+#2 {main}
+  thrown in /home2/obrasmormex/public_html/controllers/fichas/ficha.php on line 107
+[05-Sep-2019 13:16:33 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home2/obrasmormex/public_html/controllers/fichas/ficha.php on line 75
+[05-Sep-2019 13:51:54 America/Mexico_City] PHP Warning:  unlink(): No such file or directory in /home2/obrasmormex/public_html/controllers/fichas/ficha.php on line 72
+[05-Sep-2019 13:51:54 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/obrasmormex/public_html/controllers/fichas/ficha.php:72) in /home2/obrasmormex/public_html/controllers/fichas/ficha.php on line 73
+[05-Sep-2019 13:51:54 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home2/obrasmormex/public_html/controllers/fichas/ficha.php on line 75
+[05-Sep-2019 13:52:08 America/Mexico_City] PHP Warning:  unlink(): No such file or directory in /home2/obrasmormex/public_html/controllers/fichas/ficha.php on line 72
+[05-Sep-2019 13:52:08 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/obrasmormex/public_html/controllers/fichas/ficha.php:72) in /home2/obrasmormex/public_html/controllers/fichas/ficha.php on line 73
+[05-Sep-2019 13:52:08 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home2/obrasmormex/public_html/controllers/fichas/ficha.php on line 75
+[05-Sep-2019 13:58:55 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home2/obrasmormex/public_html/controllers/fichas/ficha.php on line 75
+[05-Sep-2019 16:48:59 America/Mexico_City] PHP Warning:  unlink(): No such file or directory in /home2/obrasmormex/public_html/controllers/fichas/ficha.php on line 72
+[05-Sep-2019 16:48:59 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/obrasmormex/public_html/controllers/fichas/ficha.php:72) in /home2/obrasmormex/public_html/controllers/fichas/ficha.php on line 73
+[05-Sep-2019 16:48:59 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home2/obrasmormex/public_html/controllers/fichas/ficha.php on line 75
+[05-Sep-2019 19:20:21 America/Mexico_City] PHP Warning:  unlink(): No such file or directory in /home2/obrasmormex/public_html/controllers/fichas/ficha.php on line 72
+[05-Sep-2019 19:20:21 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/obrasmormex/public_html/controllers/fichas/ficha.php:72) in /home2/obrasmormex/public_html/controllers/fichas/ficha.php on line 73
+[05-Sep-2019 19:20:21 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home2/obrasmormex/public_html/controllers/fichas/ficha.php on line 75
+[05-Sep-2019 19:30:11 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home2/obrasmormex/public_html/controllers/fichas/ficha.php on line 75
+[05-Sep-2019 20:19:35 America/Mexico_City] PHP Warning:  unlink(): No such file or directory in /home2/obrasmormex/public_html/controllers/fichas/ficha.php on line 72
+[05-Sep-2019 20:19:35 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/obrasmormex/public_html/controllers/fichas/ficha.php:72) in /home2/obrasmormex/public_html/controllers/fichas/ficha.php on line 73
+[05-Sep-2019 20:19:35 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home2/obrasmormex/public_html/controllers/fichas/ficha.php on line 75
+[05-Sep-2019 20:19:52 America/Mexico_City] PHP Warning:  unlink(): No such file or directory in /home2/obrasmormex/public_html/controllers/fichas/ficha.php on line 72
+[05-Sep-2019 20:19:52 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/obrasmormex/public_html/controllers/fichas/ficha.php:72) in /home2/obrasmormex/public_html/controllers/fichas/ficha.php on line 73
+[05-Sep-2019 20:19:52 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home2/obrasmormex/public_html/controllers/fichas/ficha.php on line 75
+[06-Sep-2019 11:28:33 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home2/obrasmormex/public_html/controllers/fichas/ficha.php on line 75
+[09-Sep-2019 14:06:09 America/Mexico_City] PHP Fatal error:  Uncaught exception 'ImagickException' with message 'unable to open image `../../Uploads/UploadsFilesFicha/e57039cfe1952f9ccf28d50db5f4ba33.jpg': No such file or directory @ error/blob.c/OpenBlob/2589' in /home2/obrasmormex/public_html/controllers/fichas/ficha.php:107
+Stack trace:
+#0 /home2/obrasmormex/public_html/controllers/fichas/ficha.php(107): Imagick->__construct('../../Uploads/U...')
+#1 /home2/obrasmormex/public_html/controllers/fichas/ficha.php(43): saveFiles(Array, '../../Uploads/U...')
+#2 {main}
+  thrown in /home2/obrasmormex/public_html/controllers/fichas/ficha.php on line 107
+[09-Sep-2019 14:09:38 America/Mexico_City] PHP Fatal error:  Uncaught exception 'ImagickException' with message 'unable to open image `../../Uploads/UploadsFilesFicha/367f56e10236787cb3a4b7754ded9e5b.jpg': No such file or directory @ error/blob.c/OpenBlob/2589' in /home2/obrasmormex/public_html/controllers/fichas/ficha.php:107
+Stack trace:
+#0 /home2/obrasmormex/public_html/controllers/fichas/ficha.php(107): Imagick->__construct('../../Uploads/U...')
+#1 /home2/obrasmormex/public_html/controllers/fichas/ficha.php(43): saveFiles(Array, '../../Uploads/U...')
+#2 {main}
+  thrown in /home2/obrasmormex/public_html/controllers/fichas/ficha.php on line 107
+[09-Sep-2019 14:12:59 America/Mexico_City] PHP Fatal error:  Uncaught exception 'ImagickException' with message 'unable to open image `../../Uploads/UploadsFilesFicha/1f90cd144bc05dd358a47de0a689f745.jpg': No such file or directory @ error/blob.c/OpenBlob/2589' in /home2/obrasmormex/public_html/controllers/fichas/ficha.php:107
+Stack trace:
+#0 /home2/obrasmormex/public_html/controllers/fichas/ficha.php(107): Imagick->__construct('../../Uploads/U...')
+#1 /home2/obrasmormex/public_html/controllers/fichas/ficha.php(43): saveFiles(Array, '../../Uploads/U...')
+#2 {main}
+  thrown in /home2/obrasmormex/public_html/controllers/fichas/ficha.php on line 107
+[09-Sep-2019 14:16:05 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home2/obrasmormex/public_html/controllers/fichas/ficha.php on line 75
+[09-Sep-2019 14:53:51 America/Mexico_City] PHP Warning:  unlink(): No such file or directory in /home2/obrasmormex/public_html/controllers/fichas/ficha.php on line 72
+[09-Sep-2019 14:53:51 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/obrasmormex/public_html/controllers/fichas/ficha.php:72) in /home2/obrasmormex/public_html/controllers/fichas/ficha.php on line 73
+[09-Sep-2019 14:53:51 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home2/obrasmormex/public_html/controllers/fichas/ficha.php on line 75
+[09-Sep-2019 15:00:25 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home2/obrasmormex/public_html/controllers/fichas/ficha.php on line 75
+[10-Sep-2019 21:03:15 America/Mexico_City] PHP Warning:  unlink(): No such file or directory in /home2/obrasmormex/public_html/controllers/fichas/ficha.php on line 72
+[10-Sep-2019 21:03:15 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/obrasmormex/public_html/controllers/fichas/ficha.php:72) in /home2/obrasmormex/public_html/controllers/fichas/ficha.php on line 73
+[10-Sep-2019 21:03:15 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home2/obrasmormex/public_html/controllers/fichas/ficha.php on line 75
+[10-Sep-2019 21:07:50 America/Mexico_City] PHP Warning:  unlink(): No such file or directory in /home2/obrasmormex/public_html/controllers/fichas/ficha.php on line 72
+[10-Sep-2019 21:07:50 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/obrasmormex/public_html/controllers/fichas/ficha.php:72) in /home2/obrasmormex/public_html/controllers/fichas/ficha.php on line 73
+[10-Sep-2019 21:07:50 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home2/obrasmormex/public_html/controllers/fichas/ficha.php on line 75
+[10-Sep-2019 23:44:57 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home2/obrasmormex/public_html/controllers/fichas/ficha.php on line 75
+[11-Sep-2019 10:42:00 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home2/obrasmormex/public_html/controllers/fichas/ficha.php on line 75
+[11-Sep-2019 12:22:02 America/Mexico_City] PHP Warning:  unlink(): No such file or directory in /home2/obrasmormex/public_html/controllers/fichas/ficha.php on line 72
+[11-Sep-2019 12:22:02 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/obrasmormex/public_html/controllers/fichas/ficha.php:72) in /home2/obrasmormex/public_html/controllers/fichas/ficha.php on line 73
+[11-Sep-2019 12:22:02 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home2/obrasmormex/public_html/controllers/fichas/ficha.php on line 75
+[11-Sep-2019 12:22:44 America/Mexico_City] PHP Warning:  unlink(): No such file or directory in /home2/obrasmormex/public_html/controllers/fichas/ficha.php on line 72
+[11-Sep-2019 12:22:44 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/obrasmormex/public_html/controllers/fichas/ficha.php:72) in /home2/obrasmormex/public_html/controllers/fichas/ficha.php on line 73
+[11-Sep-2019 12:22:44 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home2/obrasmormex/public_html/controllers/fichas/ficha.php on line 75
+[11-Sep-2019 12:31:34 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home2/obrasmormex/public_html/controllers/fichas/ficha.php on line 75
+[11-Sep-2019 13:25:28 America/Mexico_City] PHP Warning:  unlink(): No such file or directory in /home2/obrasmormex/public_html/controllers/fichas/ficha.php on line 72
+[11-Sep-2019 13:25:28 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/obrasmormex/public_html/controllers/fichas/ficha.php:72) in /home2/obrasmormex/public_html/controllers/fichas/ficha.php on line 73
+[11-Sep-2019 13:25:28 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home2/obrasmormex/public_html/controllers/fichas/ficha.php on line 75
+[11-Sep-2019 13:38:15 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home2/obrasmormex/public_html/controllers/fichas/ficha.php on line 75
+[11-Sep-2019 14:09:38 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home2/obrasmormex/public_html/controllers/fichas/ficha.php on line 75
+[11-Sep-2019 14:32:28 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home2/obrasmormex/public_html/controllers/fichas/ficha.php on line 75
+[11-Sep-2019 15:08:00 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home2/obrasmormex/public_html/controllers/fichas/ficha.php on line 75
+[11-Sep-2019 17:30:23 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home2/obrasmormex/public_html/controllers/fichas/ficha.php on line 75
+[11-Sep-2019 18:08:03 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home2/obrasmormex/public_html/controllers/fichas/ficha.php on line 75
+[13-Sep-2019 10:36:43 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home2/obrasmormex/public_html/controllers/fichas/ficha.php on line 75
+[13-Sep-2019 11:10:50 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home2/obrasmormex/public_html/controllers/fichas/ficha.php on line 75
+[30-Sep-2019 13:23:53 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home2/obrasmormex/public_html/controllers/fichas/ficha.php on line 75
+[02-Oct-2019 10:10:04 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home2/obrasmormex/public_html/controllers/fichas/ficha.php on line 75
+[02-Oct-2019 10:47:22 America/Mexico_City] PHP Warning:  unlink(): No such file or directory in /home2/obrasmormex/public_html/controllers/fichas/ficha.php on line 72
+[02-Oct-2019 10:47:22 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/obrasmormex/public_html/controllers/fichas/ficha.php:72) in /home2/obrasmormex/public_html/controllers/fichas/ficha.php on line 73
+[02-Oct-2019 10:47:22 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home2/obrasmormex/public_html/controllers/fichas/ficha.php on line 75
+[02-Oct-2019 10:48:39 America/Mexico_City] PHP Warning:  unlink(): No such file or directory in /home2/obrasmormex/public_html/controllers/fichas/ficha.php on line 72
+[02-Oct-2019 10:48:39 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/obrasmormex/public_html/controllers/fichas/ficha.php:72) in /home2/obrasmormex/public_html/controllers/fichas/ficha.php on line 73
+[02-Oct-2019 10:48:39 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home2/obrasmormex/public_html/controllers/fichas/ficha.php on line 75
+[02-Oct-2019 10:53:57 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home2/obrasmormex/public_html/controllers/fichas/ficha.php on line 75
+[02-Oct-2019 11:11:28 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home2/obrasmormex/public_html/controllers/fichas/ficha.php on line 75
+[03-Oct-2019 13:43:28 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home2/obrasmormex/public_html/controllers/fichas/ficha.php on line 75
+[03-Oct-2019 14:47:09 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home2/obrasmormex/public_html/controllers/fichas/ficha.php on line 75
+[16-Oct-2019 12:32:11 America/Mexico_City] PHP Fatal error:  Call to a member function close() on boolean in /home2/obrasmormex/public_html/controllers/fichas/ficha.php on line 75

@@ -1,0 +1,6 @@
+- Se implemento el modulo de fichas, con su respectiva validacion de inicio de sesion, subida de archivos y validacion 
+  de los datos del formulario.
+- Se creo la tabla en la Base de Datos para almacenar los datos de las fichas.
+- Se mejora codigo de login.
+- Se corrige el menu de opciones para reutilizar codigo.
+- Se cambia toda la estructura del proyecto, se separa la logica de las vistas.

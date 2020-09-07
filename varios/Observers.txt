@@ -1,0 +1,8 @@
+- Para cambiar la contraseña del usuario preferentemente se deberia pedir su contraseña actual y validar que
+  efectivamente sea correcta y posteriormente pedir la nueva contraseña con su correcpondiente validacion.
+
+ - La validacion de las contraseñas se pueden hacer con html5 y JavaScript para tener una mejor experiencia de usuario.
+
+ - Preferentemente el correo electronico del usuario deberia ser su credencial para iniciar sesión.
+
+ - Los modulos a los que no tendra acceso algun usuario deberian ocultarse del panel.
